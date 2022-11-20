@@ -1,4 +1,4 @@
-🔥 欢迎体验“泡泡”微社区 [www.bberbit.com](https://www.bberbit.com)
+🔥 欢迎体验“bberbit”微社区 [www.bberbit.com](https://www.bberbit.com)
 
 # rocboss-frontend
 
